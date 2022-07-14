@@ -1,9 +1,7 @@
-import CardStyle from './Cards.style';
+import CardsStyle from './Cards.style';
 
 const Cards = () => {
-  return (
-    <div>Cards</div>
-  )
-}
+  return <div>Cards</div>;
+};
 
-export default Cards
+export default Cards;
